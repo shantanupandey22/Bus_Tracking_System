@@ -17,7 +17,6 @@ Real-time Tracking – GPS data was collected from mobile devices acting as bus 
 
 Cloud Deployment – The system was deployed on cloud services for scalability and ease of access.
 
-
 ![Uploading Screenshot 2025-03-07 225148.png…]()
 
 Tasks & Responsibilities
